@@ -1,0 +1,9 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# teaching and working notes (not part of the code)
+*.md
+.claude/
